@@ -1,0 +1,10 @@
+[project]
+name = "ipfsspec-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "fsspec>=2026.2.0",
+    "ipfsspec>=0.6.0",
+]
